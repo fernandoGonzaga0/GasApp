@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".gitignore" />
+  </Folder>
+  <Project Path="GasApp/GasApp.csproj">
+    <Deploy Solution="Debug|*" />
+  </Project>
+</Solution>
