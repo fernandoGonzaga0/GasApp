@@ -9,8 +9,22 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
-<p>
-![Home Screen](GasApp/Resources/Images/home_app.png)
+<p align="center">
+  <img src="GasApp/Resources/Images/home_app.png" width="49%"/>
+  <img src="GasApp/Resources/Images/result_app.png" width="49%"/>
 </p>
 
+
 Aplicação .NET MAUI para comparação entre rendimento de combustíveis (etanol e gasolina) em veículos. A regra utilizada para gerar a indicação segue a ideia de que o etanol deve corresponder ao preço de no máximo 70% do valor por litro de gasolina. 
+
+
+## Licença
+
+<p>Distribuído sob licença MIT.</p>   
+
+## Autor
+
+<p>Desenvolvido por Fernando Gonzaga:</p>
+
+  - Linkedln: https://www.linkedin.com/in/fernando-gonzaga21/
+  - GitHub: https://github.com/fernandoGonzaga0
